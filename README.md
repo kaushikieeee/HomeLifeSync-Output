@@ -1,10 +1,5 @@
 # Health Monitoring — Wearable Simulation & Condition Detection
 
-> Placeholder system. There is **no real wearable**. Both the elder device
-> (native Android) and the caretaker web app run the **same** simulated
-> vitals stream and the **same** detection algorithm. Simulating a condition
-> on either device triggers a loud, automatic warning to the caretaker.
-
 ## 1. Simulated vitals (continuous stream, updated every 2 s)
 
 | Vital | Unit | Normal range |
